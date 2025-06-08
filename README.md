@@ -1,9 +1,11 @@
 #Your AI Mental Buddy 
+
 Description:
 Created to promote mental health via emotionally intelligent dialogue. It examines emotional trends over time and makes tailored recommendations based on research-proven mental health techniques.
 
 
 #Background
+
 The Problem:
 Anxiety, stress, and depression are common mental health issues. Over 970 million people worldwide suffer from a mental illness, according to the WHO. However, many people do not have access to therapy because it is expensive, or unavailable.
 
@@ -19,6 +21,7 @@ Mental health care needs to be democratized and made more proactive as it is an 
 
 
 #Data and AI Techniques
+
 Data Sources:
 Publicly available datasets like the Emotion Dataset (from Twitter), or Reddit Mental Health Support Forums for training sentiment/emotion classification.
 
@@ -58,14 +61,16 @@ Mental health professionals could interfare to understand patient patterns.
 Policy makers/NGOs could use anonymized insights to study mental health trends amd will help with guidelines.
 
 #Challenges
-Not a Therapist: Cannot diagnose or treat serious mental illness. Only offers support and gives moral support for further preventions.
 
+Not a Therapist: Cannot diagnose or treat serious mental illness. Only offers support and gives moral support for further preventions.
 
 Privacy & Trust: Managing sensitive emotional data requires strong ethical safeguards and user control someone may not understand this and refer as spam.
 
 Over-reliance Risk: Users might begin to rely solely on AI instead of seeking professional help to themselves.
 
+
 #What Next?
+
 Future Growth:
 Integration with apparel for stress detection via biometrics.
 
@@ -75,7 +80,9 @@ Collaboration with therapists to design more structured therapy-adjacent modules
 
 Open-source emotional wellness toolkit for NGOs and schools especially for the age group of teens.
 
+
 #Acknowledgments
+
 Code & Data:
 Hugging Face Transformers for NLP models.
 
